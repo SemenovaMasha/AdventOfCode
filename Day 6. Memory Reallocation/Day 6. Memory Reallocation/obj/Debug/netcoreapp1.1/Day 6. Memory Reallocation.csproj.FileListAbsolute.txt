@@ -1,0 +1,9 @@
+c:\users\masha\documents\visual studio 2017\Projects\Day 6. Memory Reallocation\Day 6. Memory Reallocation\bin\Debug\netcoreapp1.1\Day 6. Memory Reallocation.deps.json
+c:\users\masha\documents\visual studio 2017\Projects\Day 6. Memory Reallocation\Day 6. Memory Reallocation\bin\Debug\netcoreapp1.1\Day 6. Memory Reallocation.runtimeconfig.json
+c:\users\masha\documents\visual studio 2017\Projects\Day 6. Memory Reallocation\Day 6. Memory Reallocation\bin\Debug\netcoreapp1.1\Day 6. Memory Reallocation.runtimeconfig.dev.json
+c:\users\masha\documents\visual studio 2017\Projects\Day 6. Memory Reallocation\Day 6. Memory Reallocation\obj\Debug\netcoreapp1.1\Day 6. Memory Reallocation.csprojResolveAssemblyReference.cache
+c:\users\masha\documents\visual studio 2017\Projects\Day 6. Memory Reallocation\Day 6. Memory Reallocation\obj\Debug\netcoreapp1.1\Day 6. Memory Reallocation.AssemblyInfo.cs
+c:\users\masha\documents\visual studio 2017\Projects\Day 6. Memory Reallocation\Day 6. Memory Reallocation\bin\Debug\netcoreapp1.1\Day 6. Memory Reallocation.dll
+c:\users\masha\documents\visual studio 2017\Projects\Day 6. Memory Reallocation\Day 6. Memory Reallocation\bin\Debug\netcoreapp1.1\Day 6. Memory Reallocation.pdb
+c:\users\masha\documents\visual studio 2017\Projects\Day 6. Memory Reallocation\Day 6. Memory Reallocation\obj\Debug\netcoreapp1.1\Day 6. Memory Reallocation.dll
+c:\users\masha\documents\visual studio 2017\Projects\Day 6. Memory Reallocation\Day 6. Memory Reallocation\obj\Debug\netcoreapp1.1\Day 6. Memory Reallocation.pdb

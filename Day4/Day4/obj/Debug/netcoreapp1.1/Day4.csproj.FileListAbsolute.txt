@@ -1,0 +1,9 @@
+c:\users\masha\documents\visual studio 2017\Projects\Day4\Day4\bin\Debug\netcoreapp1.1\Day4.deps.json
+c:\users\masha\documents\visual studio 2017\Projects\Day4\Day4\bin\Debug\netcoreapp1.1\Day4.runtimeconfig.json
+c:\users\masha\documents\visual studio 2017\Projects\Day4\Day4\bin\Debug\netcoreapp1.1\Day4.runtimeconfig.dev.json
+c:\users\masha\documents\visual studio 2017\Projects\Day4\Day4\bin\Debug\netcoreapp1.1\Day4.dll
+c:\users\masha\documents\visual studio 2017\Projects\Day4\Day4\bin\Debug\netcoreapp1.1\Day4.pdb
+c:\users\masha\documents\visual studio 2017\Projects\Day4\Day4\obj\Debug\netcoreapp1.1\Day4.csprojResolveAssemblyReference.cache
+c:\users\masha\documents\visual studio 2017\Projects\Day4\Day4\obj\Debug\netcoreapp1.1\Day4.AssemblyInfo.cs
+c:\users\masha\documents\visual studio 2017\Projects\Day4\Day4\obj\Debug\netcoreapp1.1\Day4.dll
+c:\users\masha\documents\visual studio 2017\Projects\Day4\Day4\obj\Debug\netcoreapp1.1\Day4.pdb

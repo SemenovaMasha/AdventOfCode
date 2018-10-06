@@ -1,0 +1,9 @@
+c:\users\masha\documents\visual studio 2017\Projects\Day 3\bin\Debug\netcoreapp1.1\Day 3.deps.json
+c:\users\masha\documents\visual studio 2017\Projects\Day 3\bin\Debug\netcoreapp1.1\Day 3.runtimeconfig.json
+c:\users\masha\documents\visual studio 2017\Projects\Day 3\bin\Debug\netcoreapp1.1\Day 3.runtimeconfig.dev.json
+c:\users\masha\documents\visual studio 2017\Projects\Day 3\bin\Debug\netcoreapp1.1\Day 3.dll
+c:\users\masha\documents\visual studio 2017\Projects\Day 3\bin\Debug\netcoreapp1.1\Day 3.pdb
+c:\users\masha\documents\visual studio 2017\Projects\Day 3\obj\Debug\netcoreapp1.1\Day 3.csprojResolveAssemblyReference.cache
+c:\users\masha\documents\visual studio 2017\Projects\Day 3\obj\Debug\netcoreapp1.1\Day 3.AssemblyInfo.cs
+c:\users\masha\documents\visual studio 2017\Projects\Day 3\obj\Debug\netcoreapp1.1\Day 3.dll
+c:\users\masha\documents\visual studio 2017\Projects\Day 3\obj\Debug\netcoreapp1.1\Day 3.pdb

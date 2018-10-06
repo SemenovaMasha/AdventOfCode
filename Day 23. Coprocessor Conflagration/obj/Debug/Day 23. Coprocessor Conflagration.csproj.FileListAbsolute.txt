@@ -1,0 +1,6 @@
+c:\users\masha\documents\visual studio 2017\Projects\Day 23. Coprocessor Conflagration\bin\Debug\Day_23.Coprocessor_Conflagration.exe.config
+c:\users\masha\documents\visual studio 2017\Projects\Day 23. Coprocessor Conflagration\bin\Debug\Day_23.Coprocessor_Conflagration.exe
+c:\users\masha\documents\visual studio 2017\Projects\Day 23. Coprocessor Conflagration\bin\Debug\Day_23.Coprocessor_Conflagration.pdb
+c:\users\masha\documents\visual studio 2017\Projects\Day 23. Coprocessor Conflagration\obj\Debug\Day 23. Coprocessor Conflagration.csprojResolveAssemblyReference.cache
+c:\users\masha\documents\visual studio 2017\Projects\Day 23. Coprocessor Conflagration\obj\Debug\Day_23.Coprocessor_Conflagration.exe
+c:\users\masha\documents\visual studio 2017\Projects\Day 23. Coprocessor Conflagration\obj\Debug\Day_23.Coprocessor_Conflagration.pdb

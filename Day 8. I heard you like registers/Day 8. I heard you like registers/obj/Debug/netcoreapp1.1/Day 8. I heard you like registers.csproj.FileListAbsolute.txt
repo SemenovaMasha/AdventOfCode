@@ -1,0 +1,9 @@
+c:\users\masha\documents\visual studio 2017\Projects\Day 8. I heard you like registers\Day 8. I heard you like registers\bin\Debug\netcoreapp1.1\Day 8. I heard you like registers.deps.json
+c:\users\masha\documents\visual studio 2017\Projects\Day 8. I heard you like registers\Day 8. I heard you like registers\bin\Debug\netcoreapp1.1\Day 8. I heard you like registers.runtimeconfig.json
+c:\users\masha\documents\visual studio 2017\Projects\Day 8. I heard you like registers\Day 8. I heard you like registers\bin\Debug\netcoreapp1.1\Day 8. I heard you like registers.runtimeconfig.dev.json
+c:\users\masha\documents\visual studio 2017\Projects\Day 8. I heard you like registers\Day 8. I heard you like registers\bin\Debug\netcoreapp1.1\Day 8. I heard you like registers.dll
+c:\users\masha\documents\visual studio 2017\Projects\Day 8. I heard you like registers\Day 8. I heard you like registers\bin\Debug\netcoreapp1.1\Day 8. I heard you like registers.pdb
+c:\users\masha\documents\visual studio 2017\Projects\Day 8. I heard you like registers\Day 8. I heard you like registers\obj\Debug\netcoreapp1.1\Day 8. I heard you like registers.csprojResolveAssemblyReference.cache
+c:\users\masha\documents\visual studio 2017\Projects\Day 8. I heard you like registers\Day 8. I heard you like registers\obj\Debug\netcoreapp1.1\Day 8. I heard you like registers.AssemblyInfo.cs
+c:\users\masha\documents\visual studio 2017\Projects\Day 8. I heard you like registers\Day 8. I heard you like registers\obj\Debug\netcoreapp1.1\Day 8. I heard you like registers.dll
+c:\users\masha\documents\visual studio 2017\Projects\Day 8. I heard you like registers\Day 8. I heard you like registers\obj\Debug\netcoreapp1.1\Day 8. I heard you like registers.pdb

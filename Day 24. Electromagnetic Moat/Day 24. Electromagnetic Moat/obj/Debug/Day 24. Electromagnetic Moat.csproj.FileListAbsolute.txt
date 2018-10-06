@@ -1,0 +1,6 @@
+c:\users\masha\documents\visual studio 2017\Projects\Day 24. Electromagnetic Moat\Day 24. Electromagnetic Moat\bin\Debug\Day_24.Electromagnetic_Moat.exe.config
+c:\users\masha\documents\visual studio 2017\Projects\Day 24. Electromagnetic Moat\Day 24. Electromagnetic Moat\bin\Debug\Day_24.Electromagnetic_Moat.exe
+c:\users\masha\documents\visual studio 2017\Projects\Day 24. Electromagnetic Moat\Day 24. Electromagnetic Moat\bin\Debug\Day_24.Electromagnetic_Moat.pdb
+c:\users\masha\documents\visual studio 2017\Projects\Day 24. Electromagnetic Moat\Day 24. Electromagnetic Moat\obj\Debug\Day 24. Electromagnetic Moat.csprojResolveAssemblyReference.cache
+c:\users\masha\documents\visual studio 2017\Projects\Day 24. Electromagnetic Moat\Day 24. Electromagnetic Moat\obj\Debug\Day_24.Electromagnetic_Moat.exe
+c:\users\masha\documents\visual studio 2017\Projects\Day 24. Electromagnetic Moat\Day 24. Electromagnetic Moat\obj\Debug\Day_24.Electromagnetic_Moat.pdb

@@ -1,0 +1,6 @@
+c:\users\masha\documents\visual studio 2017\Projects\Day 25. The Halting Problem\Day 25. The Halting Problem\bin\Debug\Day_25.The_Halting_Problem.exe.config
+c:\users\masha\documents\visual studio 2017\Projects\Day 25. The Halting Problem\Day 25. The Halting Problem\bin\Debug\Day_25.The_Halting_Problem.exe
+c:\users\masha\documents\visual studio 2017\Projects\Day 25. The Halting Problem\Day 25. The Halting Problem\bin\Debug\Day_25.The_Halting_Problem.pdb
+c:\users\masha\documents\visual studio 2017\Projects\Day 25. The Halting Problem\Day 25. The Halting Problem\obj\Debug\Day 25. The Halting Problem.csprojResolveAssemblyReference.cache
+c:\users\masha\documents\visual studio 2017\Projects\Day 25. The Halting Problem\Day 25. The Halting Problem\obj\Debug\Day_25.The_Halting_Problem.exe
+c:\users\masha\documents\visual studio 2017\Projects\Day 25. The Halting Problem\Day 25. The Halting Problem\obj\Debug\Day_25.The_Halting_Problem.pdb

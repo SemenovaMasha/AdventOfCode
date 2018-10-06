@@ -1,0 +1,9 @@
+c:\users\masha\documents\visual studio 2017\Projects\Day 15. Dueling Generators\Day 15. Dueling Generators\bin\Debug\netcoreapp1.1\Day 15. Dueling Generators.deps.json
+c:\users\masha\documents\visual studio 2017\Projects\Day 15. Dueling Generators\Day 15. Dueling Generators\bin\Debug\netcoreapp1.1\Day 15. Dueling Generators.runtimeconfig.json
+c:\users\masha\documents\visual studio 2017\Projects\Day 15. Dueling Generators\Day 15. Dueling Generators\bin\Debug\netcoreapp1.1\Day 15. Dueling Generators.runtimeconfig.dev.json
+c:\users\masha\documents\visual studio 2017\Projects\Day 15. Dueling Generators\Day 15. Dueling Generators\bin\Debug\netcoreapp1.1\Day 15. Dueling Generators.dll
+c:\users\masha\documents\visual studio 2017\Projects\Day 15. Dueling Generators\Day 15. Dueling Generators\bin\Debug\netcoreapp1.1\Day 15. Dueling Generators.pdb
+c:\users\masha\documents\visual studio 2017\Projects\Day 15. Dueling Generators\Day 15. Dueling Generators\obj\Debug\netcoreapp1.1\Day 15. Dueling Generators.csprojResolveAssemblyReference.cache
+c:\users\masha\documents\visual studio 2017\Projects\Day 15. Dueling Generators\Day 15. Dueling Generators\obj\Debug\netcoreapp1.1\Day 15. Dueling Generators.AssemblyInfo.cs
+c:\users\masha\documents\visual studio 2017\Projects\Day 15. Dueling Generators\Day 15. Dueling Generators\obj\Debug\netcoreapp1.1\Day 15. Dueling Generators.dll
+c:\users\masha\documents\visual studio 2017\Projects\Day 15. Dueling Generators\Day 15. Dueling Generators\obj\Debug\netcoreapp1.1\Day 15. Dueling Generators.pdb

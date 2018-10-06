@@ -1,0 +1,9 @@
+c:\users\masha\documents\visual studio 2017\Projects\Day 1. Inverse Captcha\Day 1. Inverse Captcha\bin\Debug\netcoreapp1.1\Day 1. Inverse Captcha.deps.json
+c:\users\masha\documents\visual studio 2017\Projects\Day 1. Inverse Captcha\Day 1. Inverse Captcha\bin\Debug\netcoreapp1.1\Day 1. Inverse Captcha.runtimeconfig.json
+c:\users\masha\documents\visual studio 2017\Projects\Day 1. Inverse Captcha\Day 1. Inverse Captcha\bin\Debug\netcoreapp1.1\Day 1. Inverse Captcha.runtimeconfig.dev.json
+c:\users\masha\documents\visual studio 2017\Projects\Day 1. Inverse Captcha\Day 1. Inverse Captcha\bin\Debug\netcoreapp1.1\Day 1. Inverse Captcha.dll
+c:\users\masha\documents\visual studio 2017\Projects\Day 1. Inverse Captcha\Day 1. Inverse Captcha\bin\Debug\netcoreapp1.1\Day 1. Inverse Captcha.pdb
+c:\users\masha\documents\visual studio 2017\Projects\Day 1. Inverse Captcha\Day 1. Inverse Captcha\obj\Debug\netcoreapp1.1\Day 1. Inverse Captcha.csprojResolveAssemblyReference.cache
+c:\users\masha\documents\visual studio 2017\Projects\Day 1. Inverse Captcha\Day 1. Inverse Captcha\obj\Debug\netcoreapp1.1\Day 1. Inverse Captcha.AssemblyInfo.cs
+c:\users\masha\documents\visual studio 2017\Projects\Day 1. Inverse Captcha\Day 1. Inverse Captcha\obj\Debug\netcoreapp1.1\Day 1. Inverse Captcha.dll
+c:\users\masha\documents\visual studio 2017\Projects\Day 1. Inverse Captcha\Day 1. Inverse Captcha\obj\Debug\netcoreapp1.1\Day 1. Inverse Captcha.pdb

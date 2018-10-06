@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v1.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v1.1": {
+      "day 7.recursive circus/1.0.0": {
+        "runtime": {
+          "Day 7.Recursive Circus.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "day 7.recursive circus/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

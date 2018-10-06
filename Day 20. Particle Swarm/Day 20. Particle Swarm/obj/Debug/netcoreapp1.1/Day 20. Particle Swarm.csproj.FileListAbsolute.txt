@@ -1,0 +1,9 @@
+c:\users\masha\documents\visual studio 2017\Projects\Day 20. Particle Swarm\Day 20. Particle Swarm\bin\Debug\netcoreapp1.1\Day 20. Particle Swarm.deps.json
+c:\users\masha\documents\visual studio 2017\Projects\Day 20. Particle Swarm\Day 20. Particle Swarm\bin\Debug\netcoreapp1.1\Day 20. Particle Swarm.runtimeconfig.json
+c:\users\masha\documents\visual studio 2017\Projects\Day 20. Particle Swarm\Day 20. Particle Swarm\bin\Debug\netcoreapp1.1\Day 20. Particle Swarm.runtimeconfig.dev.json
+c:\users\masha\documents\visual studio 2017\Projects\Day 20. Particle Swarm\Day 20. Particle Swarm\bin\Debug\netcoreapp1.1\Day 20. Particle Swarm.dll
+c:\users\masha\documents\visual studio 2017\Projects\Day 20. Particle Swarm\Day 20. Particle Swarm\bin\Debug\netcoreapp1.1\Day 20. Particle Swarm.pdb
+c:\users\masha\documents\visual studio 2017\Projects\Day 20. Particle Swarm\Day 20. Particle Swarm\obj\Debug\netcoreapp1.1\Day 20. Particle Swarm.csprojResolveAssemblyReference.cache
+c:\users\masha\documents\visual studio 2017\Projects\Day 20. Particle Swarm\Day 20. Particle Swarm\obj\Debug\netcoreapp1.1\Day 20. Particle Swarm.AssemblyInfo.cs
+c:\users\masha\documents\visual studio 2017\Projects\Day 20. Particle Swarm\Day 20. Particle Swarm\obj\Debug\netcoreapp1.1\Day 20. Particle Swarm.dll
+c:\users\masha\documents\visual studio 2017\Projects\Day 20. Particle Swarm\Day 20. Particle Swarm\obj\Debug\netcoreapp1.1\Day 20. Particle Swarm.pdb

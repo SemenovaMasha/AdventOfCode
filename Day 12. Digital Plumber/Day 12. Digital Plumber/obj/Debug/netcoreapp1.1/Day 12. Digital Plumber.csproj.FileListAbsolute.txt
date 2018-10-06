@@ -1,0 +1,9 @@
+c:\users\masha\documents\visual studio 2017\Projects\Day 12. Digital Plumber\Day 12. Digital Plumber\bin\Debug\netcoreapp1.1\Day 12. Digital Plumber.deps.json
+c:\users\masha\documents\visual studio 2017\Projects\Day 12. Digital Plumber\Day 12. Digital Plumber\bin\Debug\netcoreapp1.1\Day 12. Digital Plumber.runtimeconfig.json
+c:\users\masha\documents\visual studio 2017\Projects\Day 12. Digital Plumber\Day 12. Digital Plumber\bin\Debug\netcoreapp1.1\Day 12. Digital Plumber.runtimeconfig.dev.json
+c:\users\masha\documents\visual studio 2017\Projects\Day 12. Digital Plumber\Day 12. Digital Plumber\bin\Debug\netcoreapp1.1\Day 12. Digital Plumber.dll
+c:\users\masha\documents\visual studio 2017\Projects\Day 12. Digital Plumber\Day 12. Digital Plumber\bin\Debug\netcoreapp1.1\Day 12. Digital Plumber.pdb
+c:\users\masha\documents\visual studio 2017\Projects\Day 12. Digital Plumber\Day 12. Digital Plumber\obj\Debug\netcoreapp1.1\Day 12. Digital Plumber.csprojResolveAssemblyReference.cache
+c:\users\masha\documents\visual studio 2017\Projects\Day 12. Digital Plumber\Day 12. Digital Plumber\obj\Debug\netcoreapp1.1\Day 12. Digital Plumber.AssemblyInfo.cs
+c:\users\masha\documents\visual studio 2017\Projects\Day 12. Digital Plumber\Day 12. Digital Plumber\obj\Debug\netcoreapp1.1\Day 12. Digital Plumber.dll
+c:\users\masha\documents\visual studio 2017\Projects\Day 12. Digital Plumber\Day 12. Digital Plumber\obj\Debug\netcoreapp1.1\Day 12. Digital Plumber.pdb

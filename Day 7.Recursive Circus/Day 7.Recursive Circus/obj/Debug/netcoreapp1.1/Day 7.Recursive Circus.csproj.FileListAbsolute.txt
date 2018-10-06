@@ -1,0 +1,9 @@
+c:\users\masha\documents\visual studio 2017\Projects\Day 7.Recursive Circus\Day 7.Recursive Circus\bin\Debug\netcoreapp1.1\Day 7.Recursive Circus.deps.json
+c:\users\masha\documents\visual studio 2017\Projects\Day 7.Recursive Circus\Day 7.Recursive Circus\bin\Debug\netcoreapp1.1\Day 7.Recursive Circus.runtimeconfig.json
+c:\users\masha\documents\visual studio 2017\Projects\Day 7.Recursive Circus\Day 7.Recursive Circus\bin\Debug\netcoreapp1.1\Day 7.Recursive Circus.runtimeconfig.dev.json
+c:\users\masha\documents\visual studio 2017\Projects\Day 7.Recursive Circus\Day 7.Recursive Circus\bin\Debug\netcoreapp1.1\Day 7.Recursive Circus.dll
+c:\users\masha\documents\visual studio 2017\Projects\Day 7.Recursive Circus\Day 7.Recursive Circus\bin\Debug\netcoreapp1.1\Day 7.Recursive Circus.pdb
+c:\users\masha\documents\visual studio 2017\Projects\Day 7.Recursive Circus\Day 7.Recursive Circus\obj\Debug\netcoreapp1.1\Day 7.Recursive Circus.csprojResolveAssemblyReference.cache
+c:\users\masha\documents\visual studio 2017\Projects\Day 7.Recursive Circus\Day 7.Recursive Circus\obj\Debug\netcoreapp1.1\Day 7.Recursive Circus.AssemblyInfo.cs
+c:\users\masha\documents\visual studio 2017\Projects\Day 7.Recursive Circus\Day 7.Recursive Circus\obj\Debug\netcoreapp1.1\Day 7.Recursive Circus.dll
+c:\users\masha\documents\visual studio 2017\Projects\Day 7.Recursive Circus\Day 7.Recursive Circus\obj\Debug\netcoreapp1.1\Day 7.Recursive Circus.pdb

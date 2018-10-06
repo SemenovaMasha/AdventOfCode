@@ -1,0 +1,9 @@
+c:\users\masha\documents\visual studio 2017\Projects\Day 5. A Maze of Twisty Trampolines\Day 5. A Maze of Twisty Trampolines\bin\Debug\netcoreapp1.1\Day 5. A Maze of Twisty Trampolines.deps.json
+c:\users\masha\documents\visual studio 2017\Projects\Day 5. A Maze of Twisty Trampolines\Day 5. A Maze of Twisty Trampolines\bin\Debug\netcoreapp1.1\Day 5. A Maze of Twisty Trampolines.runtimeconfig.json
+c:\users\masha\documents\visual studio 2017\Projects\Day 5. A Maze of Twisty Trampolines\Day 5. A Maze of Twisty Trampolines\bin\Debug\netcoreapp1.1\Day 5. A Maze of Twisty Trampolines.runtimeconfig.dev.json
+c:\users\masha\documents\visual studio 2017\Projects\Day 5. A Maze of Twisty Trampolines\Day 5. A Maze of Twisty Trampolines\bin\Debug\netcoreapp1.1\Day 5. A Maze of Twisty Trampolines.dll
+c:\users\masha\documents\visual studio 2017\Projects\Day 5. A Maze of Twisty Trampolines\Day 5. A Maze of Twisty Trampolines\bin\Debug\netcoreapp1.1\Day 5. A Maze of Twisty Trampolines.pdb
+c:\users\masha\documents\visual studio 2017\Projects\Day 5. A Maze of Twisty Trampolines\Day 5. A Maze of Twisty Trampolines\obj\Debug\netcoreapp1.1\Day 5. A Maze of Twisty Trampolines.csprojResolveAssemblyReference.cache
+c:\users\masha\documents\visual studio 2017\Projects\Day 5. A Maze of Twisty Trampolines\Day 5. A Maze of Twisty Trampolines\obj\Debug\netcoreapp1.1\Day 5. A Maze of Twisty Trampolines.AssemblyInfo.cs
+c:\users\masha\documents\visual studio 2017\Projects\Day 5. A Maze of Twisty Trampolines\Day 5. A Maze of Twisty Trampolines\obj\Debug\netcoreapp1.1\Day 5. A Maze of Twisty Trampolines.dll
+c:\users\masha\documents\visual studio 2017\Projects\Day 5. A Maze of Twisty Trampolines\Day 5. A Maze of Twisty Trampolines\obj\Debug\netcoreapp1.1\Day 5. A Maze of Twisty Trampolines.pdb

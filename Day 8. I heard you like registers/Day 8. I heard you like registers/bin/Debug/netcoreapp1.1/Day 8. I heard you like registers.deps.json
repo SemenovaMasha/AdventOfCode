@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v1.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v1.1": {
+      "day 8. i heard you like registers/1.0.0": {
+        "runtime": {
+          "Day 8. I heard you like registers.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "day 8. i heard you like registers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,9 @@
+c:\users\masha\documents\visual studio 2017\Projects\Day 2. Corruption Checksum\Day 2. Corruption Checksum\bin\Debug\netcoreapp1.1\Day 2. Corruption Checksum.deps.json
+c:\users\masha\documents\visual studio 2017\Projects\Day 2. Corruption Checksum\Day 2. Corruption Checksum\bin\Debug\netcoreapp1.1\Day 2. Corruption Checksum.runtimeconfig.json
+c:\users\masha\documents\visual studio 2017\Projects\Day 2. Corruption Checksum\Day 2. Corruption Checksum\bin\Debug\netcoreapp1.1\Day 2. Corruption Checksum.runtimeconfig.dev.json
+c:\users\masha\documents\visual studio 2017\Projects\Day 2. Corruption Checksum\Day 2. Corruption Checksum\bin\Debug\netcoreapp1.1\Day 2. Corruption Checksum.dll
+c:\users\masha\documents\visual studio 2017\Projects\Day 2. Corruption Checksum\Day 2. Corruption Checksum\bin\Debug\netcoreapp1.1\Day 2. Corruption Checksum.pdb
+c:\users\masha\documents\visual studio 2017\Projects\Day 2. Corruption Checksum\Day 2. Corruption Checksum\obj\Debug\netcoreapp1.1\Day 2. Corruption Checksum.csprojResolveAssemblyReference.cache
+c:\users\masha\documents\visual studio 2017\Projects\Day 2. Corruption Checksum\Day 2. Corruption Checksum\obj\Debug\netcoreapp1.1\Day 2. Corruption Checksum.AssemblyInfo.cs
+c:\users\masha\documents\visual studio 2017\Projects\Day 2. Corruption Checksum\Day 2. Corruption Checksum\obj\Debug\netcoreapp1.1\Day 2. Corruption Checksum.dll
+c:\users\masha\documents\visual studio 2017\Projects\Day 2. Corruption Checksum\Day 2. Corruption Checksum\obj\Debug\netcoreapp1.1\Day 2. Corruption Checksum.pdb

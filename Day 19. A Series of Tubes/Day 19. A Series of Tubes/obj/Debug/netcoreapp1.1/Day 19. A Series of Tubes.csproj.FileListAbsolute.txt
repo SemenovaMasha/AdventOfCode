@@ -1,0 +1,9 @@
+c:\users\masha\documents\visual studio 2017\Projects\Day 19. A Series of Tubes\Day 19. A Series of Tubes\bin\Debug\netcoreapp1.1\Day 19. A Series of Tubes.deps.json
+c:\users\masha\documents\visual studio 2017\Projects\Day 19. A Series of Tubes\Day 19. A Series of Tubes\bin\Debug\netcoreapp1.1\Day 19. A Series of Tubes.runtimeconfig.json
+c:\users\masha\documents\visual studio 2017\Projects\Day 19. A Series of Tubes\Day 19. A Series of Tubes\bin\Debug\netcoreapp1.1\Day 19. A Series of Tubes.runtimeconfig.dev.json
+c:\users\masha\documents\visual studio 2017\Projects\Day 19. A Series of Tubes\Day 19. A Series of Tubes\obj\Debug\netcoreapp1.1\Day 19. A Series of Tubes.csprojResolveAssemblyReference.cache
+c:\users\masha\documents\visual studio 2017\Projects\Day 19. A Series of Tubes\Day 19. A Series of Tubes\obj\Debug\netcoreapp1.1\Day 19. A Series of Tubes.AssemblyInfo.cs
+c:\users\masha\documents\visual studio 2017\Projects\Day 19. A Series of Tubes\Day 19. A Series of Tubes\bin\Debug\netcoreapp1.1\Day 19. A Series of Tubes.dll
+c:\users\masha\documents\visual studio 2017\Projects\Day 19. A Series of Tubes\Day 19. A Series of Tubes\bin\Debug\netcoreapp1.1\Day 19. A Series of Tubes.pdb
+c:\users\masha\documents\visual studio 2017\Projects\Day 19. A Series of Tubes\Day 19. A Series of Tubes\obj\Debug\netcoreapp1.1\Day 19. A Series of Tubes.dll
+c:\users\masha\documents\visual studio 2017\Projects\Day 19. A Series of Tubes\Day 19. A Series of Tubes\obj\Debug\netcoreapp1.1\Day 19. A Series of Tubes.pdb

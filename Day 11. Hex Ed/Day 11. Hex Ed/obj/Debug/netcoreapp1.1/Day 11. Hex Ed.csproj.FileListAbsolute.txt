@@ -1,0 +1,9 @@
+c:\users\masha\documents\visual studio 2017\Projects\Day 11. Hex Ed\Day 11. Hex Ed\bin\Debug\netcoreapp1.1\Day 11. Hex Ed.deps.json
+c:\users\masha\documents\visual studio 2017\Projects\Day 11. Hex Ed\Day 11. Hex Ed\bin\Debug\netcoreapp1.1\Day 11. Hex Ed.runtimeconfig.json
+c:\users\masha\documents\visual studio 2017\Projects\Day 11. Hex Ed\Day 11. Hex Ed\bin\Debug\netcoreapp1.1\Day 11. Hex Ed.runtimeconfig.dev.json
+c:\users\masha\documents\visual studio 2017\Projects\Day 11. Hex Ed\Day 11. Hex Ed\bin\Debug\netcoreapp1.1\Day 11. Hex Ed.dll
+c:\users\masha\documents\visual studio 2017\Projects\Day 11. Hex Ed\Day 11. Hex Ed\bin\Debug\netcoreapp1.1\Day 11. Hex Ed.pdb
+c:\users\masha\documents\visual studio 2017\Projects\Day 11. Hex Ed\Day 11. Hex Ed\obj\Debug\netcoreapp1.1\Day 11. Hex Ed.csprojResolveAssemblyReference.cache
+c:\users\masha\documents\visual studio 2017\Projects\Day 11. Hex Ed\Day 11. Hex Ed\obj\Debug\netcoreapp1.1\Day 11. Hex Ed.AssemblyInfo.cs
+c:\users\masha\documents\visual studio 2017\Projects\Day 11. Hex Ed\Day 11. Hex Ed\obj\Debug\netcoreapp1.1\Day 11. Hex Ed.dll
+c:\users\masha\documents\visual studio 2017\Projects\Day 11. Hex Ed\Day 11. Hex Ed\obj\Debug\netcoreapp1.1\Day 11. Hex Ed.pdb

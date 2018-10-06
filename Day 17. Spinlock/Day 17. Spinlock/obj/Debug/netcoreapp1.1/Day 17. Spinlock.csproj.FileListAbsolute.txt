@@ -1,0 +1,9 @@
+c:\users\masha\documents\visual studio 2017\Projects\Day 17. Spinlock\Day 17. Spinlock\bin\Debug\netcoreapp1.1\Day 17. Spinlock.deps.json
+c:\users\masha\documents\visual studio 2017\Projects\Day 17. Spinlock\Day 17. Spinlock\bin\Debug\netcoreapp1.1\Day 17. Spinlock.runtimeconfig.json
+c:\users\masha\documents\visual studio 2017\Projects\Day 17. Spinlock\Day 17. Spinlock\bin\Debug\netcoreapp1.1\Day 17. Spinlock.runtimeconfig.dev.json
+c:\users\masha\documents\visual studio 2017\Projects\Day 17. Spinlock\Day 17. Spinlock\bin\Debug\netcoreapp1.1\Day 17. Spinlock.dll
+c:\users\masha\documents\visual studio 2017\Projects\Day 17. Spinlock\Day 17. Spinlock\bin\Debug\netcoreapp1.1\Day 17. Spinlock.pdb
+c:\users\masha\documents\visual studio 2017\Projects\Day 17. Spinlock\Day 17. Spinlock\obj\Debug\netcoreapp1.1\Day 17. Spinlock.csprojResolveAssemblyReference.cache
+c:\users\masha\documents\visual studio 2017\Projects\Day 17. Spinlock\Day 17. Spinlock\obj\Debug\netcoreapp1.1\Day 17. Spinlock.AssemblyInfo.cs
+c:\users\masha\documents\visual studio 2017\Projects\Day 17. Spinlock\Day 17. Spinlock\obj\Debug\netcoreapp1.1\Day 17. Spinlock.dll
+c:\users\masha\documents\visual studio 2017\Projects\Day 17. Spinlock\Day 17. Spinlock\obj\Debug\netcoreapp1.1\Day 17. Spinlock.pdb
